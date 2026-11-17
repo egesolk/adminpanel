@@ -3,7 +3,7 @@ web sitelerin panelleri bulan araçtır
 
 # admin panel bulucu
 
-git clone https://github.com/Byyazilimci/admin-panel-bul
+git clone https://github.com/egesolk/adminpanel
 
 cd admin-panel-bul
 
